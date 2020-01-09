@@ -712,44 +712,44 @@ body {
 
   /*infoblock*/
   .S-info-block{display: none;}
- #info-block1{
+#info-block1{
     display: none;
     position: absolute;
-    top:15vw;
+    top:14.5vw;
     left: 35.3vw;
     background-color:  #32335F;
     width: 52vw;
-    height: 36vw;
+    height: 37vw;
     
   }
   #info-block2{
     display: none;
     position: absolute;
-    top:15vw;
+    top:14.5vw;
     left: 35.3vw;
     background-color:  #32335F;
     width: 52vw;
-    height: 36vw;
+    height: 37vw;
   
   }
   #info-block3{
     display: none;
     position: absolute;
-    top:15vw;
+    top:14.5vw;
     left: 35.3vw;
     background-color:  #32335F;
     width: 52vw;
-    height: 36vw;
+    height: 37vw;
     
   }
   #info-block4{
     display: none;
     position: absolute;
-    top:15vw;
+    top:14.5vw;
     left: 35.3vw;
     background-color:  #32335F;
     width: 52vw;
-    height: 36vw;
+    height: 37vw;
     
   }
   .info-item{
