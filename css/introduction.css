@@ -558,6 +558,13 @@ a{
   0% {background-position: 2149px 0;}
   100% {background-position: 0 0;}
 }
+@media (max-width: 1920px){
+  #carousel_img{
+
+    height: 13vw;
+   
+}
+}
 /*區域3*/
 .section3{
   margin-top: 10vw;
